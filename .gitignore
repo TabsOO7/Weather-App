@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+.npm-cache/
+.npmrc
+.aws/
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+secrets.*
